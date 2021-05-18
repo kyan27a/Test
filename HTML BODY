@@ -1,0 +1,14 @@
+<body>
+  <div class="scrollmenu">
+  <a href="#start">Start</a>
+  <a href="#nieuws">Nieuws</a>
+  <a href="#contact">Contact</a>
+  <a href="#over">Over O&O</a>
+</div>
+  
+  <h1>O&O</h1>
+  <div id="introduction">
+    <h2>Waarom O&O?</h2>
+    <p>O&O (<strong>Onderzoeken & Ontwerpen</strong>) is er voor de personen die een technische uitdaging niet uit de weg gaan. <br /><br /> Er zijn veel dingen die je kunt doen binnen O&O en er zijn elk jaar verschillende leuke projecten. Dus, hoe weet je nou of het iets voor jou is?</p>
+    <p><strong>O&O</strong> is wat voor jou als: Je een uitdaging niet uit de weg gaat, je het leuk vindt om iets met techniek te doen, en als je doormiddel van samenwerking wat leuks wil bereiken.</p>
+    
